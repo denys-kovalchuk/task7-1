@@ -1,1 +1,2 @@
 vars.tfvars
+.terraform/terraform.tfstate
